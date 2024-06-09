@@ -33,5 +33,5 @@ The backend is designed to perform robust CRUD operations and provides APIs for:
    git clone <repository-url>
 
 2. Install dependencies:
-   cd <backend-directory>
+   ```bash
    npm install
